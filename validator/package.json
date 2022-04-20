@@ -15,7 +15,7 @@
     "sanitize-dashboards": "node tools/sanitize_dashboards.js"
   },
   "dependencies": {
-    "is-equal": "1.6.1",
+    "is-equal": "1.6.4",
     "js-yaml": "3.14.0",
     "pajv": "1.2.0",
     "path": "0.12.7"
